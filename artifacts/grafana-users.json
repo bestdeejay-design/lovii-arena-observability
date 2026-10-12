@@ -1,0 +1,10 @@
+{
+  "grafana_users_org1": [
+    {
+      "login": "admin",
+      "email": "admin@<masked>",
+      "role": "Admin"
+    }
+  ],
+  "note": "РОЛЕЙ-РАЗДЕЛЕНИЯ НЕТ: один admin; viewer/SA нет"
+}

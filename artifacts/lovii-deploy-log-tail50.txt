@@ -1,0 +1,50 @@
+2026-10-09T18:27:34Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-09T18:39:49Z [staging] OK stack=lovii-core-staging sha=a3f74ca
+2026-10-10T19:02:09Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-10T19:14:44Z [staging] OK stack=lovii-core-staging sha=1f3278e
+2026-10-10T19:55:26Z [production] START stack=lovii-core sha=<sha40> pb=
+2026-10-10T19:58:21Z [production] WARN env-drift pre (см. выше) — recreate в этом деплое устранит
+2026-10-10T20:02:05Z [production] OK stack=lovii-core sha=55609f05
+2026-10-10T20:19:09Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-10T20:25:07Z [staging] WARN env-drift pre (см. выше) — recreate в этом деплое устранит
+2026-10-10T20:31:39Z [staging] OK stack=lovii-core-staging sha=6845bd2
+2026-10-10T20:44:13Z [production] START stack=lovii-core sha=<sha40> pb=
+2026-10-10T20:51:04Z [production] OK stack=lovii-core sha=8dcedce9
+2026-10-11T12:41:10Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-11T12:53:40Z [staging] OK stack=lovii-core-staging sha=9e3cd06
+2026-10-11T14:18:14Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-11T14:30:55Z [staging] OK stack=lovii-core-staging sha=6f1c954
+2026-10-11T15:36:14Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-11T15:49:07Z [staging] OK stack=lovii-core-staging sha=39e01bc
+2026-10-11T15:59:45Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-11T16:00:24Z [staging] START stack=lovii-app-staging sha=<sha40> pb=<sha40>
+2026-10-11T16:00:38Z [staging] OK stack=lovii-app-staging sha=949af7d
+2026-10-11T16:02:13Z [staging] START stack=lovii-b2b-staging sha=<sha40> pb=<sha40>
+2026-10-11T16:05:08Z [staging] OK stack=lovii-b2b-staging sha=0bd4613
+2026-10-11T16:12:45Z [staging] OK stack=lovii-core-staging sha=c7d6efc
+2026-10-11T17:19:48Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-11T17:33:45Z [staging] OK stack=lovii-core-staging sha=07539d7
+2026-10-11T17:33:55Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-11T17:47:12Z [staging] OK stack=lovii-core-staging sha=0a79102
+2026-10-11T18:20:15Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-11T18:32:47Z [staging] OK stack=lovii-core-staging sha=5d314ed
+2026-10-11T19:23:49Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-11T19:30:43Z [staging] START stack=lovii-admin-staging sha=<sha40> pb=<sha40>
+2026-10-11T19:32:23Z [staging] OK stack=lovii-admin-staging sha=4b23411
+2026-10-11T19:37:39Z [staging] OK stack=lovii-core-staging sha=3cf2b13
+2026-10-11T20:01:58Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-11T20:11:56Z [staging] START stack=lovii-app-staging sha=<sha40> pb=<sha40>
+2026-10-11T20:12:21Z [staging] FAIL stack=lovii-app-staging health
+2026-10-11T20:15:20Z [staging] OK stack=lovii-core-staging sha=3e0f154
+2026-10-11T20:21:23Z [staging] START stack=lovii-app-staging sha=<sha40> pb=<sha40>
+2026-10-11T20:21:35Z [staging] OK stack=lovii-app-staging sha=91cc3c4
+2026-10-11T21:30:30Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-11T21:43:21Z [staging] OK stack=lovii-core-staging sha=213edd6
+2026-10-11T22:40:29Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-11T22:52:47Z [staging] OK stack=lovii-core-staging sha=d70bfc8
+2026-10-12T07:39:27Z [staging] START stack=lovii-core-staging sha=<sha40> pb=<sha40>
+2026-10-12T07:52:21Z [staging] OK stack=lovii-core-staging sha=233f103
+2026-10-12T08:18:39Z [production] START stack=lovii-app sha=<sha40> pb=
+2026-10-12T08:18:51Z [production] OK stack=lovii-app sha=f1c471c
+2026-10-12T08:24:50Z [production] START stack=lovii-core sha=<sha40> pb=
+2026-10-12T08:28:19Z [production] WARN env-drift pre (см. выше) — recreate в этом деплое устранит

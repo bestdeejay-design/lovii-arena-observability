@@ -1,0 +1,8 @@
+command="/usr/local/bin/gostiny-deploy",restrict <KEY> gostiny-ci-deploy
+<KEY> github-actions-deploy@turokserials-api
+<KEY> ops-deploy@turokserials-api
+<KEY> nikdm
+<KEY> admin@<домен>
+command="/home/deploy/bin/lovii-deploy staging",restrict <KEY> lovii-ci-deploy-staging
+command="/home/deploy/bin/lovii-deploy production",restrict <KEY> lovii-ci-deploy-production
+command="/usr/bin/rrsync /home/deploy/backups",no-port-forwarding,no-X11-forwarding,no-agent-forwarding,no-pty <KEY> gostiny-build-backups
